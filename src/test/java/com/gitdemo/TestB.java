@@ -22,5 +22,22 @@ public class TestB {
 * and lastly push with providing username and password of github account
 *Thank you for your time
 *this is cool
-* thanks
+* thanks.
+*
+* git clone gitHubURL
+git pull ==> to pull the latest code
+git branch branchName ==> it will create a new branch
+git checkout branchName  ==> it will checkout the branch and you will be working in you branch
+git checkout -b branchName ==> this comand will create and checkout to the new branch
+git add .  ==> this will add file to staging area
+git commit -m "commit message" ==> this will commit changes with the message
+git push -u origin branchName ==> this will push your changes to github from your branch
+git checkout master ==> this command it will move the head to the master
+git merge  branchName ==> this command it will merge your changes from the branch to your master
+git log ==> this command it will display all commits
+git merge --abort ==> this command it will abort the conflict merge
+git log --graph --online --all  ==> it will show the commit log
+git branch ==> this command it will give you a list of all the branches
+echo >> fileName +extension
+git branch -d localBranchName ==> this command will  delete local branch
 * */
