@@ -13,6 +13,7 @@ public class TestB {
 * run the "git add filename" command to add the file to the staging area
 * run the "git commit -m "message"" command to commit the changes
 * run the "git push" command and provide username and password of git hub account
-*
+
+*Thank you for your time
 *
 * */
