@@ -16,6 +16,10 @@ public class TestB {
 * make some changes from the remote repo , commit and add some message
 * run the "git fetch" command
 * run the "git pull command" and you should be able to see the changes
+* make changes on more than one file
+* run the "git add ." command which adds all the changes that happening at once, so we dont need to specify the folder name
+* run the (git commit -am "message") command to commit all the changes we did in all the files
+* and lastly push with providing username and password of github account
 *Thank you for your time
 *this is cool
 * thanks
