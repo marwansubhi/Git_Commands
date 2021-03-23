@@ -28,7 +28,7 @@ public class TestB {
 git pull ==> to pull the latest code
 git branch branchName ==> it will create a new branch
 git checkout branchName  ==> it will checkout the branch and you will be working in you branch
-git checkout -b branchName ==> this comand will create and checkout to the new branch
+git checkout -b branchName ==> this command will create and checkout to the new branch
 git add .  ==> this will add file to staging area
 git commit -m "commit message" ==> this will commit changes with the message
 git push -u origin branchName ==> this will push your changes to github from your branch
