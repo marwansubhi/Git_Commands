@@ -7,5 +7,8 @@ public class TestB {
     @Test
     public void test(){
         System.out.println("Test B Class");
+
+
+
     }
 }
